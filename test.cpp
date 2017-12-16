@@ -8,6 +8,7 @@
 int main(int argc, char **argv) {
 	std::cout<<"Helloworld!";
 	std::cout<<"Hey!";
+	std::cout<<"Hello!";
 }
 
 
